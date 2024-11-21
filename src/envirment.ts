@@ -1,0 +1,1 @@
+export const envDev = "http://localhost:3000/api/";
